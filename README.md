@@ -1,5 +1,7 @@
 # Frostproof
 
+![Frostproof](thumbnail.png)
+
 A Factorio 2.0 mod that turns off freezing. On Aquilo, machines, belts, inserters, rails and everything else work without heating, just like on any other planet.
 
 ## What it does
