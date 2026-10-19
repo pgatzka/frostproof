@@ -33,7 +33,7 @@ Then start Factorio and enable the mod in the mod list.
 
 ## Pull request checks
 
-Every push to a pull request runs the "Mod checks" workflow:
+Every push to a pull request runs the "Mod checks" workflow. It can also be started by hand on any branch, e.g. on `main` before a release (**Actions → Mod checks → Run workflow**):
 
 - `info.json` is valid and has the fields Factorio requires.
 - `changelog.txt`, once it exists, is in exactly the format Factorio accepts and its newest version matches `info.json` (headless Factorio does not read the changelog, so this is checked separately).
